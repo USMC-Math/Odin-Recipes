@@ -35,7 +35,7 @@ ol li{
     position: relative;
 }
 
-.list-of-links{
-    text-align: center !important;
-    font-size: larger;
+.links .list-of-links{
+    text-align: center;
+    padding-left: 500px;
 }
