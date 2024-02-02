@@ -12,13 +12,13 @@ p{
 }
 
 ul {
-    padding-left: 30px;
+    padding-left: 200px;
 }
 ul li {
     text-align: left;
     list-style-position: inside;
 }
-ol {padding-left: 30px;
+ol {padding-left: 200px;
 }
 ol li{
     text-align: left;
