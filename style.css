@@ -3,5 +3,11 @@
 .formatting-alignment{
     text-align: center;
     font-style: "Times New Roman", Serif, Sans-serif;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(194, 225, 235);
+}
+
+.list{
+    position: relative;
 }
