@@ -35,7 +35,7 @@ ol li{
     position: relative;
 }
 
-.list.list-of-links{
+.list .list-of-links{
     text-align: center;
     font-size: larger;
 }
