@@ -3,7 +3,7 @@
 .formatting-alignment{
     text-align: center;
     font-style: "Times New Roman", Serif, Sans-serif;
-    margin: 30, 100, 30; 
+    margin: 45, 100, 45; 
     background-color:rgb(194, 225, 235);    
 }
 
@@ -36,6 +36,6 @@ ol li{
 }
 
 .list .list-of-links{
-    text-align: center;
+    text-align: center !important;
     font-size: larger;
 }
