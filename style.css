@@ -3,8 +3,7 @@
 .formatting-alignment{
     text-align: center;
     font-style: "Times New Roman", Serif, Sans-serif;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 30, 100, 30; 
     background-color:rgb(194, 225, 235);    
 }
 
@@ -13,15 +12,16 @@ p{
 }
 
 ul {
-    padding-left: 0;
+    padding-left: 30px;
 }
 ul li {
+    text-align: left;
     list-style-position: inside;
 }
-ol {
-    padding-left: 0;
+ol {padding-left: 30px;
 }
 ol li{
+    text-align: left;
     list-style-position: inside;
 }
 .list{
