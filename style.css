@@ -8,22 +8,34 @@
 }
 
 p{
-    font-size: medium;
+    font-size: large;
 }
 
 ul {
-    padding-left: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
+
 ul li {
     text-align: left;
     list-style-position: inside;
 }
-ol {padding-left: 200px;
+
+ol {
+    padding-left: 100px;
+    padding-right: 100px;
 }
+
 ol li{
     text-align: left;
     list-style-position: inside;
 }
+
 .list{
     position: relative;
+}
+
+.list.list-of-links{
+    text-align: center;
+    font-size: larger;
 }
