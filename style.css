@@ -1,5 +1,8 @@
 /* style.css */
 
+.title{
+    border-bottom: 25px;    
+}
 .formatting-alignment{
     text-align: center;
     font-style: "Times New Roman", Serif, Sans-serif;
@@ -38,4 +41,5 @@ ol li{
 .list.list-of-links{
     text-align: center;
     padding-left: 500px;
+    font-size: larger;
 }
