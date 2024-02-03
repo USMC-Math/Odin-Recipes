@@ -1,7 +1,7 @@
 /* style.css */
 
 .title{
-    border-bottom:thick,rgb(0, 0, 0);    
+    border-bottom:auto, thick,rgb(0, 0, 0);    
 }
 .formatting-alignment{
     text-align: center;
